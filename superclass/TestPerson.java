@@ -2,7 +2,7 @@ package superclass;
 
 public class TestPerson {
     public static void main(String[] args) {
-        Person P1 = new Person("Priya Gupta", "Delhi");
+        Person P1 = new Person("Jaswanth", "Bangalore");
         System.out.println("PERSON CLASS");
         System.out.println("Name: "+ P1.getName());
         System.out.println("Address: "+ P1.getAdress());
